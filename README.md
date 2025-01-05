@@ -38,7 +38,7 @@ This project is a web-based application for recognizing plant diseases using mac
 
 ## Installation
 Clone the repository:
-git clone [<repository-url>](https://github.com/Ashrith5/PlantCare-AI.git)
+git clone https://github.com/Ashrith5/PlantCare-AI.git
 cd plant-disease-recognition
 
 ## Install dependencies:
