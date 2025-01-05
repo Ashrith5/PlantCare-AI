@@ -37,13 +37,13 @@ This project is a web-based application for recognizing plant diseases using mac
 - Validation set: 17,572 images
 
 ## Installation
-1. Clone the repository:
-git clone <repository-url>
+Clone the repository:
+git clone [<repository-url>](https://github.com/Ashrith5/PlantCare-AI.git)
 cd plant-disease-recognition
 
-## 2. Install dependencies:
+## Install dependencies:
 pip install -r requirements.txt
 
-## 3. Usage
+## Usage
 Run the Streamlit app:
 streamlit run plant_disease.py
